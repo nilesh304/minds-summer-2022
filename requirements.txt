@@ -1,0 +1,17 @@
+###### Requirements without Version Specifiers ######
+beautifulsoup4
+xmltojson
+utils
+html-to-json
+matplotlib
+seaborn
+wordcloud
+nltk
+sklearn
+textblob
+vadersentiment
+
+
+
+###### Requirements with Version Specifiers ######
+plotly==5.8.0
