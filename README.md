@@ -5,7 +5,7 @@
 
  
 ## How to run the File <br/>
-1. Open the file in Jupyter notebook
+1. Open the file ***MINDS challenege.ipynb*** in Jupyter notebook
 2. Click on Cell > Run All 
 
 ## Web Scrapping to get Articles
