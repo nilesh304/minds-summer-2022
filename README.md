@@ -11,6 +11,7 @@
 ## Web Scrapping to get Articles
 1. Used request library to hit the links and get the HTML response <br/>
 2. Used beautifulSoup to iterate through HTML response and get required data <br/>
+3. The scraped data with required fields such as title, text, image and image caption and date is saved in **articles.json**
 
 ## Preprocessing Data
 ### Preprocessing is done in 3 steps:
